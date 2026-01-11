@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Taweeli_App</string>
+    <string name="accessibility_service_description">
+Taweeli AI needs Accessibility to send WhatsApp messages via voice while driving.
+</string>
+
+</resources>
